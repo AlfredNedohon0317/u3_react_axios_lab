@@ -137,3 +137,4 @@ export default function ShipDetails(){
 1. Add some custom CSS styling to approximate a cool, sci-fi aesthetic. 
 
 
+ gideon cove helped me on this hw 
